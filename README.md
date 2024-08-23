@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **React JS, Express JS and AppWrite**
+- 🌱 I’m currently learning **Next Js, Prisma, and DSA**
 
-- 👨‍💻 All of my projects are available at [https://rahulpoonia.vercel.app](https://rahulpoonia.vercel.app)
+- 👨‍💻 All of my projects are available at [https://rahulpoonia.co](https://rahulpoonia.co)
 
 - 💬 Ask me about **React JS, Express JS and Machine Learning**
 
